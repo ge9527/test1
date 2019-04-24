@@ -20,6 +20,8 @@ git pull
 git fetch
 git merge
 
+ git push --set-upstream origin master
+
 协同开发冲突
 
 
