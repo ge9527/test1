@@ -1,4 +1,4 @@
-第一 协同2
+第一 协同2 如果不基于最新版git pull ,就直接git push.
 
 git init
 
