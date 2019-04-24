@@ -6,3 +6,15 @@ git init
 添加远程库地址别名：git remote add origin http:xxxxxx.git
 推送到远程库：git push origin master
 
+
+github邀请别人加入
+Collaborators
+
+git clone http:xxxx.git
+1\git
+2\init
+3\origin
+
+
+
+
