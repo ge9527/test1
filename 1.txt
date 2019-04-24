@@ -11,9 +11,9 @@ github邀请别人加入
 Collaborators
 
 git clone http:xxxx.git
-1\git
-2\init
-3\origin
+1\把远程文件下载到本地
+2\origin 远程库别名
+3\初始化本地数据库
 
 
 
